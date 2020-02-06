@@ -16,6 +16,7 @@ import { FooterComponent } from './footer/footer.component';
 
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -27,14 +28,14 @@ import { FooterComponent } from './footer/footer.component';
     RSVPComponent,
     GalleryComponent,
     BlogComponent,
-    FooterComponent
+    FooterComponent,
     
-   
     
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+   
   ],
   providers: [],
   bootstrap: [AppComponent],
