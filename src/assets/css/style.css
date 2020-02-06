@@ -278,28 +278,13 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 
-#qbootstrap-couple,
-#qbootstrap-countdown,
-#qbootstrap-groom-bride,
 #qbootstrap-story,
-#qbootstrap-people,
-#qbootstrap-when-where,
-#qbootstrap-started,
-#qbootstrap-gallery,
-#qbootstrap-testimonials,
 #qbootstrap-press {
   padding: 7em 0;
 }
 @media screen and (max-width: 480px) {
-  #qbootstrap-couple,
-  #qbootstrap-countdown,
-  #qbootstrap-groom-bride,
+
   #qbootstrap-story,
-  #qbootstrap-people,
-  #qbootstrap-when-where,
-  #qbootstrap-started,
-  #qbootstrap-gallery,
-  #qbootstrap-testimonials,
   #qbootstrap-press {
     padding: 5em 0;
   }

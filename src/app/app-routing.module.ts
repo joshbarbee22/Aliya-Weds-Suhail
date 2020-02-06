@@ -3,8 +3,8 @@ import { Routes, RouterModule } from '@angular/router';
 
 
 
+
 const routes: Routes = [
-  
 ];
 
 @NgModule({
@@ -12,3 +12,4 @@ const routes: Routes = [
   exports: [RouterModule]
 })
 export class AppRoutingModule { }
+
