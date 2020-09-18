@@ -6,7 +6,7 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #FF847C !default;
+$brand-primary: #337ab7 !default;
 
 
 $brand-white: #fff;
@@ -799,7 +799,7 @@ h1, h2, h3, h4, h5, h6 {
 			left: 10px;
 			right: 10px;
 			content: '';
-			background: #f4f3e2;
+			background: #bcd4e0;
 			z-index: -1;
 		}
 	}
@@ -813,7 +813,7 @@ h1, h2, h3, h4, h5, h6 {
 			left: 10px;
 			right: 10px;
 			content: '';
-			background: #fef6f8;
+			background: #cfefff;
 			z-index: -1;
 		}
 	}
@@ -914,10 +914,10 @@ h1, h2, h3, h4, h5, h6 {
 				left: 10px;
 				right: 10px;
 				content: '';
-				background: #f4f3e2;
+				background: #bcd4e0;
 				z-index: -1;
 				&.overlay-2{
-					background: #fef6f8;
+					background: #cfefff;
 				}
 			}
 		}
@@ -1222,7 +1222,7 @@ h1, h2, h3, h4, h5, h6 {
 			left: 10px;
 			right: 10px;
 			content: '';
-			background: #f4f3e2;
+			background: #bcd4e0;
 			z-index: -1;
 		}
 		h3{
