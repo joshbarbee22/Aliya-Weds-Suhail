@@ -297,6 +297,7 @@ h1, h2, h3, h4, h5, h6 {
 .qbootstrap-cover,
 .qbootstrap-hero {
   position: relative;
+  background-position: center;
   height: 800px;
   width: 100%;
 }
@@ -304,6 +305,7 @@ h1, h2, h3, h4, h5, h6 {
   .qbootstrap-cover,
   .qbootstrap-hero {
     height: 700px;
+    background-position: center;
   }
 }
 
@@ -327,7 +329,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 768px) {
   .qbootstrap-cover,
   .video-hero {
-    heifght: inherit;
+    height: inherit;
     padding: 3em 0;
   }
 }
